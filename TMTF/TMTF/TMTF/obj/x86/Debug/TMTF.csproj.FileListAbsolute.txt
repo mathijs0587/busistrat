@@ -1,0 +1,237 @@
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+C:\Users\75131\Desktop\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\School\Leerjaar 2\Periode F\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+G:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+F:\Periode F\TMTFT\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+F:\School\Periode F\TMTF\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+D:\School\Leerjaar 2\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Scoreboard\Scoreboard.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\mainFont.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Scoreboard\Scoreboard.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\mainFont.xnb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.csprojResolveAssemblyReference.cache
+F:\School\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_links.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_rechts.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_links.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_rechts.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\CloseUitlegButton.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\Uitleg.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverScreen.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.wmv
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\MainMenuTexture.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Scoreboard\Scoreboard.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_links.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_rechts.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_links.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_rechts.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\CloseUitlegButton.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\Uitleg.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverScreen.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverButtonGreenScreen.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StartGameButton.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StoppenButton.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\MainMenuTexture.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\mainFont.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.xnb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.wmv
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.exe
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\TMTF.pdb
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.exe
+H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\obj\x86\Debug\TMTF.pdb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Scoreboard\Scoreboard.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_links.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_rechts.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_links.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_rechts.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\CloseUitlegButton.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\Uitleg.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverScreen.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverButtonGreenScreen.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StartGameButton.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StoppenButton.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\MainMenuTexture.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\mainFont.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\scoreFont.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.xnb
+G:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.wmv
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StartGameButton.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StoppenButton.xnb
+F:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverButtonGreenScreen.xnb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMTF", "TMTF\TMTF\TMTF.csproj", "{67073D4A-572D-42CE-933E-2DF999DF6761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMTFContent", "TMTF\TMTFContent\TMTFContent.contentproj", "{1EB78AC0-FCBA-4F01-B5B4-9C237ED85054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67073D4A-572D-42CE-933E-2DF999DF6761}.Debug|x86.ActiveCfg = Debug|x86
+		{67073D4A-572D-42CE-933E-2DF999DF6761}.Debug|x86.Build.0 = Debug|x86
+		{67073D4A-572D-42CE-933E-2DF999DF6761}.Release|x86.ActiveCfg = Release|x86
+		{67073D4A-572D-42CE-933E-2DF999DF6761}.Release|x86.Build.0 = Release|x86
+		{1EB78AC0-FCBA-4F01-B5B4-9C237ED85054}.Debug|x86.ActiveCfg = Debug|x86
+		{1EB78AC0-FCBA-4F01-B5B4-9C237ED85054}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

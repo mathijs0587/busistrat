@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Tile\White_Hexagon_test.png</Source>
+      <Name>Sprites\Tile\White_Hexagon_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon_test.xnb</Output>
+      <Time>2014-09-17T11:37:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Base\Blauw_Fabriek.png</Source>
+      <Name>Sprites\Base\Blauw_Fabriek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Blauw_Fabriek.xnb</Output>
+      <Time>2014-09-24T17:18:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Base\Geel_Fabriek.png</Source>
+      <Name>Sprites\Base\Geel_Fabriek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Geel_Fabriek.xnb</Output>
+      <Time>2014-09-24T17:17:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Base\Groen_Fabriek.png</Source>
+      <Name>Sprites\Base\Groen_Fabriek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Groen_Fabriek.xnb</Output>
+      <Time>2014-09-24T17:16:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Base\Rood_Fabriek.png</Source>
+      <Name>Sprites\Base\Rood_Fabriek</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Base\Rood_Fabriek.xnb</Output>
+      <Time>2014-09-24T17:16:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Tile\White_Hexagon.png</Source>
+      <Name>Sprites\Tile\White_Hexagon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Tile\White_Hexagon.xnb</Output>
+      <Time>2014-10-29T10:37:30.4157469+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Units\Unit_Blauw.png</Source>
+      <Name>Sprites\Units\Unit_Blauw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Blauw.xnb</Output>
+      <Time>2014-09-24T11:35:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Units\Unit_Geel.png</Source>
+      <Name>Sprites\Units\Unit_Geel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Geel.xnb</Output>
+      <Time>2014-09-24T11:34:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Units\Unit_Groen.png</Source>
+      <Name>Sprites\Units\Unit_Groen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Groen.xnb</Output>
+      <Time>2014-09-24T11:32:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Units\Unit_Rood.png</Source>
+      <Name>Sprites\Units\Unit_Rood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Units\Unit_Rood.xnb</Output>
+      <Time>2014-09-24T11:33:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Dices\Dobbelsteen.png</Source>
+      <Name>Sprites\Dices\Dobbelsteen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Dices\Dobbelsteen.xnb</Output>
+      <Time>2014-09-21T01:52:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background\Background.jpg</Source>
+      <Name>Sprites\Background\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Background\Background.xnb</Output>
+      <Time>2014-09-21T05:54:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Scoreboard\Scoreboard.png</Source>
+      <Name>Sprites\Scoreboard\Scoreboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Scoreboard\Scoreboard.xnb</Output>
+      <Time>2014-09-25T12:36:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\inGameMenuGreenScreen_links.png</Source>
+      <Name>Sprites\Toolbar\inGameMenuGreenScreen_links</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_links.xnb</Output>
+      <Time>2014-10-08T08:28:44.3334318+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\inGameMenuGreenScreen_rechts.png</Source>
+      <Name>Sprites\Toolbar\inGameMenuGreenScreen_rechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenuGreenScreen_rechts.xnb</Output>
+      <Time>2014-10-08T08:28:44.3374323+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\inGameMenu_links.png</Source>
+      <Name>Sprites\Toolbar\inGameMenu_links</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_links.xnb</Output>
+      <Time>2014-10-08T08:28:44.3239217+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\inGameMenu_rechts.png</Source>
+      <Name>Sprites\Toolbar\inGameMenu_rechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\inGameMenu_rechts.xnb</Output>
+      <Time>2014-10-08T08:28:44.3284242+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\CloseUitlegButton.png</Source>
+      <Name>Sprites\Toolbar\CloseUitlegButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\CloseUitlegButton.xnb</Output>
+      <Time>2014-10-08T10:36:47.8074319+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Toolbar\Uitleg.png</Source>
+      <Name>Sprites\Toolbar\Uitleg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\Toolbar\Uitleg.xnb</Output>
+      <Time>2014-10-08T10:37:10.3131914+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GameOver\GameOverScreen.png</Source>
+      <Name>Sprites\GameOver\GameOverScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverScreen.xnb</Output>
+      <Time>2014-10-08T11:39:25.502143+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GameOver\GameOverButtonGreenScreen.png</Source>
+      <Name>Sprites\GameOver\GameOverButtonGreenScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\GameOver\GameOverButtonGreenScreen.xnb</Output>
+      <Time>2014-10-08T11:43:22.8794123+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MainMenu\StartGameButton.png</Source>
+      <Name>Sprites\MainMenu\StartGameButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StartGameButton.xnb</Output>
+      <Time>2014-10-09T16:05:31.7901954+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MainMenu\StoppenButton.png</Source>
+      <Name>Sprites\MainMenu\StoppenButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\StoppenButton.xnb</Output>
+      <Time>2014-10-09T16:05:31.7934539+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MainMenu\MainMenuTexture.png</Source>
+      <Name>Sprites\MainMenu\MainMenuTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Sprites\MainMenu\MainMenuTexture.xnb</Output>
+      <Time>2014-10-09T16:05:44.7342089+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DigitalFont.spritefont</Source>
+      <Name>Fonts\DigitalFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\DigitalFont.xnb</Output>
+      <Time>2014-09-20T16:37:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\mainFont.spritefont</Source>
+      <Name>Fonts\mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\mainFont.xnb</Output>
+      <Time>2014-09-25T14:17:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\scoreFont.spritefont</Source>
+      <Name>Fonts\scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Fonts\scoreFont.xnb</Output>
+      <Time>2014-10-29T10:03:25.6002985+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Video\MainMenuVideo.wmv</Source>
+      <Name>Video\MainMenuVideo</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.xnb</Output>
+      <Extra>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\Video\MainMenuVideo.wmv</Extra>
+      <Time>2014-10-09T14:30:40.1222152+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTFContent\</RootDirectory>
+      <LoggerRootDirectory>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTFContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\Periode F\TMTF-LAWL\TMTF\TMTF\TMTF\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-11-08T15:50:40.1198636+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
